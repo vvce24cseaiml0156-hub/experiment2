@@ -1,2 +1,1 @@
-Student registration details
-New changes for diff demonstration
+Change made in main branch
